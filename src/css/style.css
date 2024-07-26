@@ -91,7 +91,7 @@ body{
 .main_container{
 
 	width: 85%;
-	height: 70%;
+	height: 65%;
 	border-radius: 15px;
 	min-width: 274px;
 	min-height: 338px;
@@ -143,16 +143,17 @@ body{
 
 .text_name{
 	color: white;
-	font-size: clamp(0.1rem , 6vw, 2rem );
+	font-size: clamp(0.1rem , 6vw, 1.7rem );
 	padding-bottom: 8px;
 }
+
 
 
 .text_city{
 	color: hsl(75, 94%, 57%);
 	font-size: 15px;
 	font-weight: bold;
-	font-size: clamp(0.1rem , 3.4vw, 1.1rem );
+	font-size: clamp(0.1rem , 3.4vw, 1rem );
 }
 
 
@@ -194,6 +195,7 @@ body{
 	border-radius: 10px;
 	background-color: hsl(0, 0%, 20%);
 	font-weight: 600;
+	font-size:  clamp(0.1rem , 4vw, 0.9rem ) ;
 	
 }
 
