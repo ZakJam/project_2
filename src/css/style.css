@@ -144,7 +144,8 @@ body{
 .text_name{
 	color: white;
 	font-size: clamp(0.1rem , 6vw, 1.7rem );
-	padding-bottom: 8px;
+	padding-bottom: 12px;
+	font-weight: 600;
 }
 
 
@@ -153,7 +154,7 @@ body{
 	color: hsl(75, 94%, 57%);
 	font-size: 15px;
 	font-weight: bold;
-	font-size: clamp(0.1rem , 3.4vw, 1rem );
+	font-size: clamp(0.1rem , 3.4vw, 0.9rem );
 }
 
 
