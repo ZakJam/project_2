@@ -201,14 +201,6 @@ body{
 }
 
 
-
-
-
-
-
-@media screen and (min-width: 1024px) {	
-
-
 .social_style:hover{
 
 	background-color: rgb(200, 255, 0);
@@ -216,7 +208,7 @@ body{
 	cursor: pointer;
 
 }
-}
+
 
 
 
